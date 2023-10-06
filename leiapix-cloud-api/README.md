@@ -1,3 +1,13 @@
+# LEARN WEB3 NOTES
+
+For this hackathon, I took the Leia REST API and modified it for recieiving the image from the front-end that we want to animate, and saving it down.
+
+We need to save it because the Streamr links are broadcasted dynamically
+
+To run use "npm run start:dev" to start the server but there are a few API keys needed from both LEIAPIX and Amazon S3 (which is outputted to and then sent back)
+
+
+
 # Leia Media Cloud REST API Demo app
 
 This repo contains examples of backend integration with Media Cloud REST API.
