@@ -19,7 +19,7 @@ How it works:
 
 I love manga and I believe generative AI will enhance the experience of manga readers
 
-
+The smart contract to facilitate payments solidity file is saved in ./src/components/contracts/DistributionContract.sol
 
 
 
