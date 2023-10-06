@@ -20,7 +20,8 @@
     "stream-browserify": "^3.0.0",
     "stream-http": "^3.2.0",
     "streamr-client": "^8.5.5",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "web3": "^4.1.2"
   },
   "scripts": {
     "start": "react-app-rewired start",

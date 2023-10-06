@@ -14,7 +14,7 @@ import {
 
     return (
       <ThirdwebProvider
-        activeChain="polygon"
+        activeChain="mumbai"
         clientId={YOUR_CLIENT_ID}
         supportedWallets={[
           metamaskWallet({ recommended: true }),
